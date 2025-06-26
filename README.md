@@ -50,13 +50,11 @@ The models are evaluated using R² score and Mean Squared Error. The best-perfor
 Obinna — PhD in Electrical & Electronic Engineering with research in Machine Learning, Data Science, and Network Engineering. This project forms part of a broader data science dashboard and analytics portfolio.
 
 📂 Folder Structure
-kotlin
-Copy
-Edit
 autopricer-msrp-prediction/
 ├── car_msrp_prediction.py
 ├── data.csv
 ├── requirements.txt
 └── README.md
+
 📬 Contact
 For inquiries, collaborations, or hiring, feel free to reach out via LinkedIn or email.
